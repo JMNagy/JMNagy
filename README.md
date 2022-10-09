@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **johnmcnagy@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/11GzXgFsIUG6fAAGs14G0PyB75fN0mYod/edit">with my resume.</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/11GzXgFsIUG6fAAGs14G0PyB75fN0mYod/edit?usp=sharing&ouid=116931667054442023448&rtpof=true&sd=true">with my resume.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
