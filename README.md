@@ -3,10 +3,6 @@
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/JMNagy?tab=repositories"> here.</a>
 
-- 📫 How to reach me **johnmcnagy@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WrrUYstmxGE-cqQpFfAXIu6uOPIA-Gbx/view?usp=sharing">with my resume.</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/john-michael-nagy-03944218a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-michael nagy" height="30" width="40" /></a>
